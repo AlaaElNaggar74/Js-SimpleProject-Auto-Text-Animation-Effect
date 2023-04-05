@@ -1,0 +1,27 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing: border-box;
+}
+
+.maincont{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+	background-color: aqua;
+	font-family: 'Permanent Marker', cursive;
+
+}
+
+.headanimation{
+	font-size: 5rem;
+	color: rgb(14, 65, 22);
+}
+
+/* #diplsy{
+	width: 10px;
+	background-color: blue;
+	overflow: hidden;
+	display: inline;
+} */
